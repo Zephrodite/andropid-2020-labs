@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">แอปแรกของฉัน</string>
+    <string name="edit_message">ใส่ข้อความ</string>
+    <string name="button_send">ส่ง</string>
+</resources>
