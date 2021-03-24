@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371852626715",
+    "project_id": "test-authen-firebase-98501",
+    "storage_bucket": "test-authen-firebase-98501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371852626715:android:1a36a1cd6fd478f8b761be",
+        "android_client_info": {
+          "package_name": "com.example.test_authen_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371852626715-ghfnha16bq3lmt6j0h35qgh2tsfdkdk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--pHwoniGHwWCW8Q39CA995iKzdrqRsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371852626715-ghfnha16bq3lmt6j0h35qgh2tsfdkdk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
